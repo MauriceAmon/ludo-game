@@ -4,4 +4,4 @@ especially if you'd like to expand the game-logic in the future. It's based on t
 
 ![Alt text](./dfa_ludo.svg)
 
-
+You can find the corresponding classes in the states package. I'll try to give more information regarding the software design soon. 
